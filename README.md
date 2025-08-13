@@ -18,5 +18,6 @@
 - Collaborate with like-minded individuals
 
 ## Contact
-- **Email**: shadi67shadab@gmail.com
+- **Email**: sh.shadabshoar@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/zeinab-shadishadabshoar/)
+
