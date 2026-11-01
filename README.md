@@ -9,7 +9,7 @@ I came to software from business and engineering: a BSc in ICT & Electronic Engi
 
 ### Recent work
 
-- **SatNOGS ground-station software QA (Libre Space Foundation, 2026).** End-to-end, regression and failure-recovery testing of the SatNOGS Client, SDR and flowgraph chain on a real station, from scheduling on the Network to uploaded artifacts, including a client and flowgraph release regression.
+- **SatNOGS ground-station software QA.** End-to-end, regression and failure-recovery testing of the SatNOGS Client, SDR and flowgraph chain on a real station, from scheduling on the Network to uploaded artifacts, including a client and flowgraph release regression.
 - **Test automation.** Turning those manual procedures into repeatable checks: a read-only API smoke-test suite and a per-observation verification tool.
 - **Data science for space operations.** Machine learning on SatNOGS observation data to understand why observations fail.
 
