@@ -5,7 +5,7 @@ Athens, Greece
 
 I connect business needs with technology, data, people and processes. I look at how a process or system really behaves, record what the evidence does and does not show, and turn the findings into practical recommendations.
 
-My background combines engineering (BSc ICT & Electronic Engineering), business (MSc International Business & Management) and data science (MIT Emerging Talent). My experience covers operations, HR and finance coordination, software QA, humanitarian and inclusion work with communities, project coordination and sales leadership. Most of it has involved working across teams and partners to solve practical problems.
+My background combines engineering (BSc in Electronic and ICT Engineering), business (MSc International Business & Management) and data science (MIT Emerging Talent). My experience covers operations, HR and finance coordination, software QA, humanitarian and inclusion work with communities, project coordination and sales leadership. Most of it has involved working across teams and partners to solve practical problems.
 
 ---
 
@@ -43,7 +43,7 @@ My background combines engineering (BSc ICT & Electronic Engineering), business 
 ### Education and training
 
 - **MSc International Business & Management**, ALBA Graduate Business School
-- **BSc ICT & Electronic Engineering**, Shiraz Technical University
+- **BSc in Electronic and ICT Engineering**, Shiraz Technical University
 - **MIT Emerging Talent Certificate, Computer & Data Science** (2024–2025)
 - **Kühne Logistics University**, exchange programme in Data Science & New Product Development
 - **IBM Data Analyst Professional Certificate**
